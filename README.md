@@ -47,7 +47,12 @@ I build practical systems around high-concurrency backend services, LLM applicat
 | **Service Layer**<br/>Java, Spring Boot, Spring Cloud Alibaba, distributed backend design. | **AI Layer**<br/>LangChain4j, RAG, Tool Calling, structured output. | **Data Layer**<br/>MySQL, Redis, Caffeine, RabbitMQ. |
 
 ```yaml
-
+> boot profile
+> role      : Java Backend / AI Application Developer
+> mindset   : build useful systems, then make them reliable
+> current   : AI zero-code app generation platform, agent workflows
+> toolchain : Spring ecosystem, Redis, MySQL, Docker, AI-assisted coding
+```
 
 ## Tech Stack
 
@@ -73,3 +78,4 @@ I build practical systems around high-concurrency backend services, LLM applicat
 📫 **2700320093@qq.com** · [跳转发送邮件](mailto:2700320093@qq.com)
 
 </div>
+````
