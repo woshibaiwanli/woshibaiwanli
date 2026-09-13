@@ -1,6 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=0:1a2a6c,50:2E8B8B,100:20B2AA&text=Bai%20Wanli&subText=Java%20Backend%20%7C%20AI%20Application%20%7C%20LLM%20Agent&fontSize=42&fontColor=fff&animation=fadeIn)
 
 <div align="center">
+  
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:1a2a6c,50:2E8B8B,100:20B2AA&text=Bai%20Wanli&subText=Java%20Backend%20%7C%20AI%20Application%20%7C%20LLM%20Agent&fontSize=42&fontColor=fff&animation=fadeIn" width="100%" />
 
 # Bai Wanli
 
