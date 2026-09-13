@@ -23,7 +23,7 @@
 ![](https://img.shields.io/badge/Redis-Cache-DC382D?logo=redis&logoColor=white)
 ![](https://img.shields.io/badge/RabbitMQ-MQ-FF6600?logo=rabbitmq&logoColor=white)
 
-![](https://img.shields.io/badge/%E6%AD%A6%E6%B1%89%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%A6-%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF%20%C2%B7%202023%20%E2%80%93%202027-4A9EDE)
+![](https://img.shields.io/badge/%E6%AD%A6%E6%B1%89%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%A6-%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF%20%C2%B7%202024%20%E2%80%93%202028-4A9EDE)
 
 </div>
 
@@ -47,12 +47,7 @@ I build practical systems around high-concurrency backend services, LLM applicat
 | **Service Layer**<br/>Java, Spring Boot, Spring Cloud Alibaba, distributed backend design. | **AI Layer**<br/>LangChain4j, RAG, Tool Calling, structured output. | **Data Layer**<br/>MySQL, Redis, Caffeine, RabbitMQ. |
 
 ```yaml
-> boot profile
-> role      : Java Backend / AI Application Developer
-> mindset   : build useful systems, then make them reliable
-> current   : AI zero-code app generation platform, agent workflows
-> toolchain : Spring ecosystem, Redis, MySQL, Docker, AI-assisted coding
-```
+
 
 ## Tech Stack
 
@@ -78,5 +73,3 @@ I build practical systems around high-concurrency backend services, LLM applicat
 📫 **2700320093@qq.com** · [跳转发送邮件](mailto:2700320093@qq.com)
 
 </div>
-````
-
